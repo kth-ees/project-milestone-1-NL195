@@ -1,0 +1,19 @@
+$date
+	Sun Sep 14 23:07:58 2025
+$end
+$version
+	QuestaSim Version 2022.4
+$end
+$timescale
+	1ns
+$end
+
+$scope module alu_tb $end
+
+$scope module dut $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+$end
